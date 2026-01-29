@@ -1,0 +1,8 @@
+
+{
+  "name": "Narial Darul Hadis Islamia Madrasa Portal",
+  "description": "A comprehensive admission and examination management portal for Narial Madrasa, featuring online applications, result management, and administrative controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
